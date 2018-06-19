@@ -52,7 +52,7 @@ We will now search for that girl meme and continue with that by selecting it wit
 
  Next time you want to use that meme again you have two options:
 
-*  Either write `.meme <the name of what you called your meme>` in our case this would be `.meme the girl that hacked the fire`
+*  The first way to do it is by writing `.meme <the name of what you called your meme>` in our case this would be `.meme the girl that hacked the fire`
 
 
 
