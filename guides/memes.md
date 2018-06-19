@@ -1,18 +1,23 @@
 ---
-description: Create custom memes with gamer!
+description: Creating custom memes with gamer is really simple!
 ---
 
 # Memes
 
-## Creating a custom meme
+## Step 1: Creating a new custom meme
 
- Creating a meme with G4M3R is really easy. In the beginning you have to select a meme background template.  You can do that my searching for a certain term like `.meme add girl` or you can just type `.meme add` and you will get all available templates to select from.
+
+
+Let's start by searching for a certain term like `.meme add girl` or you can just type `.meme add` and you will get all available templates to select from.
+
+
 
 
 
 ![](https://jgriffin34432.gitbooks.io/g4m3r-sample-guides/content/assets/import.png)
 
-  
+##  Step 2: Selecting background
+
 We will now search for that girl meme and continue with that by selecting it with its respective number.  
 
 
@@ -20,8 +25,10 @@ We will now search for that girl meme and continue with that by selecting it wit
 
 ![](https://jgriffin34432.gitbooks.io/g4m3r-sample-guides/content/assets/select%20girl%20meme.png)
 
+## Step 3: Adding upper and bottom text
+
   
- After selecting the meme template you have to provide an **UPPER TEXT** or a underscore to leave the **TOP** area empty.
+ After selecting the meme template you have to provide an **UPPER TEXT** or an underscore to leave the **TOP** area empty.
 
 
 
@@ -33,6 +40,8 @@ We will now search for that girl meme and continue with that by selecting it wit
 
 
 ![](https://jgriffin34432.gitbooks.io/g4m3r-sample-guides/content/assets/bottom%20message.png)
+
+##  Step 4: Naming and saving your meme
 
   
  Now G4M3R asks you to provide a custom name for your meme, so you will later recognize it in your meme repository.
@@ -52,7 +61,7 @@ We will now search for that girl meme and continue with that by selecting it wit
 
  Next time you want to use that meme again you have two options:
 
-*  The first way to do it is by writing `.meme <the name of what you called your meme>` in our case this would be `.meme the girl that hacked the fire`
+*  Either write `.meme <the name of what you called your meme>` in our case this would be `.meme the girl that hacked the fire`
 
 
 
@@ -68,4 +77,6 @@ We will now search for that girl meme and continue with that by selecting it wit
  I hope now it is more clear on how to use G4M3R's meme generator.
 
 
+
+> Credits: JoshTheGamer632
 
